@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 **/result.csv
 **/model.zip
+**/secrets.json
